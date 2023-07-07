@@ -1,3 +1,9 @@
+<div align="center">
+
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=I%20am%20Aeri!&color=b0e0e6&fontColor=87cefa&fontSize=40&animation=twinkling)
+</div>
+
 ### Hi there 👋
 
 <!--
